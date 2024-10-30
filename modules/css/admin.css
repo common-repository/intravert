@@ -1,0 +1,43 @@
+.tw-bs input[type=checkbox] {
+	width:15px !important;
+	height:15px !important;
+}
+.tw-bs input[type=radio]{
+    width: 15px !important;
+    height: 15px !important;
+    border-radius: 10px !important;
+}
+.image_preview{
+		
+	overflow: hidden;
+}
+.image_preview img{
+	width:150px;
+	float:left;
+	margin-right:10px;
+}
+.shortcode_preview{
+	padding:10px;
+	margin:10px;
+	border:1px dashed #ccc;
+	text-align:center;
+	font-size:15px;
+	font-weight:bold;
+}
+.ads_block_gray{
+	padding:10px;
+	background:#e2e2e2;
+	margin-bottom:10px;
+}
+.ads_block_gray p{
+	
+}
+.settings_page_wap_settings #wpwrap{
+	background:#fff;
+}
+.settings_page_wap_settings #wpwrap p{
+	font-size:14px !important;;
+}
+.settings_page_wap_settings #wpwrap .tw-bs4 label{
+	font-weight:bold !important;
+}
